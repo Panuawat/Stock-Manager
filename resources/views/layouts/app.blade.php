@@ -13,6 +13,9 @@
 
         <!-- Tailwind CSS CDN (for Railway deployment) -->
         <script src="https://cdn.tailwindcss.com"></script>
+        
+        <!-- Alpine.js for interactive components (dropdown, etc.) -->
+        <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
     </head>
     <body class="font-sans antialiased">
         <div class="min-h-screen bg-gray-100">
